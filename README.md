@@ -18,3 +18,13 @@ Proxo
 EasyExploits
 Fluxus
 ```
+###### Credits
+martiin:
+https://www.roblox.com/users/1737868527/profile
+martiin#0015
+demvkrao:
+https://www.roblox.com/users/2312/profile
+demvkrao#0069
+metaa:
+https://www.roblox.com/users/160135858/profile
+metaa#0001
