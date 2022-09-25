@@ -20,7 +20,6 @@ Fluxus
 ```
 ###### Credits
 martiin:
-
 https://www.roblox.com/users/1737868527/profile
 martiin#0015
 
@@ -31,3 +30,7 @@ demvkrao#0069
 metaa:
 https://www.roblox.com/users/160135858/profile
 metaa#0001
+
+## Discord:
+
+https://discord.gg/ragdollengine
