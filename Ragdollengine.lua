@@ -1,3 +1,13 @@
+local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
+
+Notification:Notify(
+    {Title = "Cryptonic Discord", Description = "discord.gg/ragdollengine \n copied to keyboard - copiado al teclado"},
+    {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 15, Type = "image"},
+    {Image = "http://www.roblox.com/asset/?id=1999278264", ImageColor = Color3.fromRGB(255, 255, 255)}
+)
+
+setclipboard("https://discord.gg/ragdollengine")
 --imagine no join a discord
 
 local I,Z,W=nil,nil,nil([[
