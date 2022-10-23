@@ -2,7 +2,7 @@ local NotificationHolder = loadstring(game:HttpGet("https://raw.githubuserconten
 local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
 
 Notification:Notify(
-    {Title = "Cryptonic Discord", Description = "discord.gg/ragdollengine \n copied to keyboard - copiado al teclado"},
+    {Title = "Cryptonic Discord", Description = "discord.gg/MQQZbzeAQh \n copied to keyboard - copiado al teclado"},
     {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 15, Type = "image"},
     {Image = "http://www.roblox.com/asset/?id=1999278264", ImageColor = Color3.fromRGB(255, 255, 255)}
 )
