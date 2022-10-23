@@ -30,4 +30,4 @@ metaa#0001
 
 ## Discord:
 
-https://discord.gg/ragdollengine
+https://discord.gg/MQQZbzeAQh
