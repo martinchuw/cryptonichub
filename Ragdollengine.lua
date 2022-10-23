@@ -7,8 +7,8 @@ Notification:Notify(
     {Image = "http://www.roblox.com/asset/?id=1999278264", ImageColor = Color3.fromRGB(255, 255, 255)}
 )
 
-setclipboard("https://discord.gg/ragdollengine")
---imagine no join a discord
+setclipboard("https://discord.gg/MQQZbzeAQh")
+--plz join da discord kid
 
 local I,Z,W=nil,nil,nil([[
 
