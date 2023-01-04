@@ -1,4 +1,4 @@
--- // Protected by luaGuard - Security Level basic
+-- // Protected by luaGuard - Security Level basic o.0
 
 -- This file was generated using Luraph Obfuscator v13.6.2
 
