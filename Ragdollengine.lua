@@ -1,5 +1,4 @@
-_G.security=print;
-_G.security([[
+print([[
 .
 ��▓▓▓
 ▒▒▒▓▓
