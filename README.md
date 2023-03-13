@@ -6,17 +6,11 @@ https://www.roblox.com/games/9848789324/Ragdoll-Engine
 ## Compatibility in executors
 
 ```
-full:
-Synapse
-Scriptware
-KRNL
-Electron
-Temple
-idk:
-WeAreDevs
-Proxo
-EasyExploits
+SynapseX v2,v3
+ScriptWare
+Krnl
 Fluxus
+OxygenU
 ```
 ###### Credits
 martiin:
