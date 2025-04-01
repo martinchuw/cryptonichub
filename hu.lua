@@ -1,5 +1,5 @@
 local HWID_KEY_DB = {
-    ["E7CA4C4C-A9DB-421D-B4D8-408F99C8E681"] = "icehook_key_6bCuUOmM5eiNXxcoFOSaB1T1", 
+   -- ["E7CA4C4C-A9DB-421D-B4D8-408F99C8E681"] = "icehook_key_6bCuUOmM5eiNXxcoFOSaB1T1", 
 }
 
 return function()
