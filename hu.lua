@@ -4,20 +4,21 @@ local HWID_KEY_DB = {
 
 return function()
     local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
-    local KeyInput = getgenv().Key or ""
+    local KeyInput = getgenv().Key or ""  
 
     if not HWID_KEY_DB[HWID] then
-        game.Players.LocalPlayer:Kick("🔒 HWID no autorizado")
-        while true do end
+        game.Players.LocalPlayer:Kick("🚫 HWID no autorizado")
+        while true do end  
         return false
     end
 
     if KeyInput ~= HWID_KEY_DB[HWID] then
-        game.Players.LocalPlayer:Kick("🔑 Key incorrecta")
-        while true do end 
+        game.Players.LocalPlayer:Kick("🔑 KEY incorrecta")
+        while true do end  
         return false
     end
 
-    print("✅ Whitelist verificada | HWID: " .. HWID)
+
+    print("✅ Acceso concedido | HWID: " .. HWID)
     return true
 end
